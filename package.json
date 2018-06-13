@@ -1,0 +1,34 @@
+{
+  "name": "com-stionic-facebookads-sdk",
+  "version": "1.0.0",
+  "description": "Add Facebook AudienceNetwork SDK to Cordova porject, as dependency for other plugins",
+  "cordova": {
+    "id": "com-stionic-facebookads-sdk",
+    "platforms": [
+      "android",
+      "amazon-fireos",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stionic/com-stionic-facebookads-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stionic/com-stionic-facebookads-sdk/issues"
+  },
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "facebook",
+    "audiencenetwork",
+    "fb",
+    "audnet",
+    "rjfun",
+    "sdk"
+  ],
+  "author": {
+    "name": "Stionic"
+  },
+  "license": "MIT"
+}
